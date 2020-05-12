@@ -37,7 +37,7 @@
 	<repositories>
       <repository>
          <id>helloWorldJenkins</id>
-         <url>http://192.168.0.11:8081/repository/chumu</url>
+         <url>http://192.168.0.11:8081/repository/chumu/</url>
       </repository>
     </repositories>
 </project>
