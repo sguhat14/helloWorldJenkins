@@ -33,5 +33,16 @@
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 		</dependency>
+		<dependency>
+         <groupId>helloWorldJenkins</groupId>
+         <artifactId>helloWorldJenkins</artifactId>
+         <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 	</dependencies>
+	<repositories>
+      <repository>
+         <id>helloWorldJenkins</id>
+         <url>http://localhost:8081/#admin/repository/repositories:chumu</url>
+      </repository>
+    </repositories>
 </project>
